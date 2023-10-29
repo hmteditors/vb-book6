@@ -1,0 +1,7 @@
+#!citerelationset
+urn|urn:cite2:hmt:dse.v1:msBil6
+label|Collection of DSE records for Iliad 6 in the Venetus B
+passage|imageroi|surface
+urn:cts:greekLit:tlg0012.tlg001.msB:6.title|urn:cite2:hmt:vbbifolio.v1:vb_81v_82r@0.2211,0.3155,0.1907,0.03993|urn:cite2:hmt:msB.v1:81v
+urn:cts:greekLit:tlg0012.tlg001.msB:6.1|urn:cite2:hmt:vbbifolio.v1:vb_81v_82r@0.2141,0.3944,0.2168,0.05898|urn:cite2:hmt:msB.v1:81v
+urn:cts:greekLit:tlg0012.tlg001.msB:6.2|urn:cite2:hmt:vbbifolio.v1:vb_81v_82r@0.2283,0.4171,0.2067,0.02934|urn:cite2:hmt:msB.v1:81v
