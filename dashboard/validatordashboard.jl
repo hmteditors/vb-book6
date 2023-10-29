@@ -4,7 +4,7 @@ using Pkg
 Pkg.activate(joinpath(pwd(), "dashboard"))
 Pkg.instantiate()
 
-DASHBOARD_VERSION = "0.17.0"
+DASHBOARD_VERSION = "0.17.1"
 
 using Dash
 using CitableBase
