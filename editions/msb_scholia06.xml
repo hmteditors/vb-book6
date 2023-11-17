@@ -27,14 +27,84 @@
               </p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.msB:??</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:6.1</p>
             </div>
             <div n="comment">
-              <p>ἡ <placeName n="urn:cite2:hmt:place.v1:place6">τροία</placeName>: τὰ μὲν θαλάσσια πρὸς <placeName n="urn:cite2:hmt:place.v1:place22">ἑλλήσποντον</placeName> ἔχει: τὰ δὲ βόρεια προς <placeName n="urn:cite2:hmt:place.v1:place88">ζέλειαν</placeName>: τὰ δὲ ὑποκείμενα, <placeName n="urn:cite2:hmt:place.v1:place231">φρυγίαν</placeName>. τὰ δὲ μεσημβρινὰ, πρὸς <placeName n="urn:cite2:hmt:place.v1:place87">λυδίαν</placeName>: ὡς φιλέλλην δὲ ἐπάγει τοὺς θεοὺς, καὶ ἐξέτασιν ἀμφοτέρων ποιεῖ: ἐμονώθη δὲ ἡ μάχη τῆς τῶν θεῶν συμμαχίας οὕτως: <persName n="urn:cite2:hmt:pers.v1:pers116">ἥρα</persName> μὲν γὰρ καὶ <persName n="urn:cite2:hmt:pers.v1:pers67">ἀθηνᾶ</persName> εἰς τὸν <placeName n="urn:cite2:hmt:place.v1:place45">ὄλυμπον</placeName> ἀπίασιν: <persName n="urn:cite2:hmt:pers.v1:pers40">ἀπόλλων</persName> δὲ εἰς <placeName n="">πέργαμον</placeName>: ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers83">ἄρης</persName> καὶ ἡ <persName n="urn:cite2:hmt:pers.v1:pers194">ἀφροδίτη</persName>, τέτρωνται ὑπὸ <persName n="urn:cite2:hmt:pers.v1:pers215">διομήδους</persName>: τινὲς δὲ τὸ οἰώθη, ἀντὶ τοῦ ἰσώθη ὡμοιώθη: φύλοπις δὲ ὁ ἐμφύλιος πόλεμος κακῶς παρά τισι λέγεται: ἀλλ' ἡ μετὰ βοῆς φῦλα συνάπτουσα ἀμφότερα τῶν τε <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">τρώων</rs> καὶ <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers14">ἑλλήνων</rs>, μάχη: λέγεται δὲ καὶ ἡ κατὰ φῦλα οἷον ἔθνους μετὰ ἑταίρου οἰκείου πολεμούντων ἄλλως, διὰ τὸ ὁμοψυχεῖν: κρῖνε γάρ φησιν ἄνδρας κατὰ φῦλα κατὰ φρήτρας <persName n="urn:cite2:hmt:pers.v1:pers22">ἀγάμεμνον</persName>⁑</p>
-            </div>
-             
+              <p>ἡ <placeName n="urn:cite2:hmt:place.v1:place6">τροία</placeName>: τὰ μὲν θαλάσσια πρὸς <placeName n="urn:cite2:hmt:place.v1:place22">ἑλλήσποντον</placeName> ἔχει: τὰ δὲ βόρεια προς <placeName n="urn:cite2:hmt:place.v1:place88">ζέλειαν</placeName>: τὰ δὲ ὑποκείμενα, <placeName n="urn:cite2:hmt:place.v1:place231">φρυγίαν</placeName>. τὰ δὲ μεσημβρινὰ, πρὸς <placeName n="urn:cite2:hmt:place.v1:place87">λυδίαν</placeName>: ὡς φιλέλλην δὲ ἐπάγει τοὺς θεοὺς, καὶ ἐξέτασιν ἀμφοτέρων ποιεῖ: ἐμονώθη δὲ ἡ μάχη τῆς τῶν θεῶν συμμαχίας οὕτως: <persName n="urn:cite2:hmt:pers.v1:pers116">ἥρα</persName> μὲν γὰρ καὶ <persName n="urn:cite2:hmt:pers.v1:pers67">ἀθηνᾶ</persName> εἰς τὸν <placeName n="urn:cite2:hmt:place.v1:place45">ὄλυμπον</placeName> ἀπίασιν: <persName n="urn:cite2:hmt:pers.v1:pers40">ἀπόλλων</persName> δὲ εἰς <placeName n="">πέργαμον</placeName>: ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers83">ἄρης</persName> καὶ ἡ <persName n="urn:cite2:hmt:pers.v1:pers194">ἀφροδίτη</persName>, τέτρωνται ὑπὸ <persName n="urn:cite2:hmt:pers.v1:pers215">διομήδους</persName>: τινὲς δὲ τὸ οἰώθη, ἀντὶ τοῦ ἰσώθη ὡμοιώθη: φύλοπις δὲ ὁ ἐμφύλιος πόλεμος κακῶς παρά τισι λέγεται: ἀλλ' ἡ μετὰ βοῆς φῦλα συνάπτουσα ἀμφότερα τῶν τε <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">τρώων</rs> καὶ <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers14">ἑλλήνων</rs>, μάχη: λέγεται δὲ καὶ ἡ κατὰ φῦλα οἷον ἔθνους μετὰ ἑταίρου οἰκείου πολεμούντων ἄλλως, διὰ τὸ ὁμοψυχεῖν: <cit><q>κρῖνε</q><ref>urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:2.362</ref></cit> γάρ φησιν <cit><q>ἄνδρας κατὰ φῦλα κατὰ φρήτρας</q><ref>urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:2.362</ref></cit> <persName n="urn:cite2:hmt:pers.v1:pers22">ἀγάμεμνον</persName>⁑</p>
+            </div>  
           </div>
-        
+
+          <div n="81v_2" type="scholion">
+            <div n="lemma">
+              <p><num value="2">β</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:6.2</p>
+            </div>
+            <div n="comment">
+              <p>ἢ ἐν τῷ διώκειν καὶ φεύγειν, ἢ ἐπὶ τὰ δεξιὰ καὶ ἀριστερά: ἐξηγεῖται δὲ τὸ <cit><q>πολυάϊκος πολέμοιο</q><ref>urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.165</ref></cit>: ἴθυσε δὲ, τὸ ἰθὺς ὥρμησεν⁑</p>
+            </div>
+          </div>
+
+          <div n="81v_3" type="scholion">
+            <div n="lemma">
+              <p><num value="3">γ</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:6.4</p>
+            </div>
+            <div n="comment">
+              <p>πρότερον ἐγέγραπτο <q>μεσηγὺς ποταμοῖο <placeName n="urn:cite2:hmt:place.v1:place93">σκαμάνδρου</placeName> καὶ στόμα λίμνης</q>: ὕστερον δὲ <persName n="urn:cite2:hmt:pers.v1:pers16">ἀρίσταρχος</persName> ταύτην τὴν γραφὴν εὑρὼν, ἐπέκρινεν: ἄλλοι δὲ <q>μεσηγὺς ποταμοῖο <placeName n="urn:cite2:hmt:place.v1:place93">σκαμάνδρου</placeName> καὶ <placeName n="urn:cite2:hmt:place.v1:place92">σιμόεντος</placeName></q>⁑</p>
+            </div>
+          </div>
+
+          <div n="81v_4" type="scholion">
+            <div n="lemma">
+              <p><num value="4">δ</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:6.4</p>
+            </div>
+            <div n="comment">
+              <p>διὰ τὸ τραχὺ τοῦ <placeName n="urn:cite2:hmt:place.v1:place93">σκαμάνδρου</placeName>, εὗρεν ὄνομα τῷ μέτρῳ ἐμπίπτον, ἵνα μὴ δόξη ἄτιμον εἶναι: πολλάκις δὲ καὶ ἐφ' ὧν τὸ μέτρον οὐ κωλύεται, διττὰ ὀνόματα τάττει: <cit><q>χαλκίδα κικλήσκουσι θεοὶ, ἄνδρες δὲ κύμινδιν</q><ref>urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:14.291</ref></cit>: <cit><q>ὃν <persName n="urn:cite2:hmt:pers.v1:pers174">βριάρεων</persName> καλέουσι θεοὶ, ἄνδρες δέ τε πάντες <persName n="urn:cite2:hmt:pers.v1:pers174">αἰγαίωνα</persName></q><ref>urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.403-1.404</ref></cit>: <cit><q>ἄνδρες βάτειαν κικλήσκουσιν, ἀθάνατοι δέ τε σῆμα</q><ref>urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:2.813-2.814</ref></cit>: διὰ ταύτην τὴν αἰτίαν καὶ τῷ <persName n="urn:cite2:hmt:pers.v1:pers172">ἕκτορος</persName> υἱῷ <persName n="urn:cite2:hmt:pers.v1:pers726">σκαμανδρίῳ</persName> ἑτερον ὄνομα περιτίθησι τὸ <persName n="urn:cite2:hmt:pers.v1:pers726">ἀστυάναξ</persName>: εἰ δέ τις ἐπιζητεῖ πῶς ἐν τοῖς ἑξῆς οὐ μόνον <placeName n="urn:cite2:hmt:place.v1:place93">ξάνθον</placeName> ἀλλὰ καὶ <placeName n="urn:cite2:hmt:place.v1:place93">σκάμανδρον</placeName> τὸν ποταμὸν φησὶν, ἴστω ὅτι ψεύδους παρεῖχεν ὑποψίαν τὸ μὴ παραλαβεῖν ποτὲ τὸ κύριον⁑</p>
+            </div>
+          </div>
+
+          <div n="81v_5" type="scholion">
+            <div n="lemma">
+              <p><num value="5">ε</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:6.6</p>
+            </div>
+            <div n="comment">
+              <p>τρισὶ μεταφοραῖς κέχρηται ἐπὶ τὴν τῶν ἐπιφανῶν ὁμοιότητα: ὃ γὰρ δύναται πρὸς <choice><abbr>ἀσφά</abbr><expan>ἀσφάλειαν</expan></choice> πόλεως τεῖχος, τοῦτο πρὸς <choice><abbr>σρίαν</abbr><expan>σωτηρίαν</expan></choice> στρατοῦ γενναῖος <choice><sic>ἀνὴρ</sic><corr>ἀνήρ</corr></choice>: καὶ πάλιν ὃ δύναται ῥῆξις ἐσθῆτος τὴν σκέπην ἀναιροῦσα, τοῦτο δύναται ῥησσομένη ἡ φάλαγξ καὶ τὸν στρατὸν παραβλάπτουσα: καὶ πάλιν ὡς ὀνίνησι φῶς τοὺς σκότῳ κατεχομένους, οὕτως καὶ τοὺς θλιβομένους ὑπὸ τῆς τοῦ πολέμου ἀχλύος, ἡ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers127">αἴαντος</persName> ἐπέλαμψε βοήθεια⁑</p>
+            </div>
+          </div>
+
+           <div n="81v_6" type="scholion">
+            <div n="lemma">
+              <p><num value="6">ς</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:6.9</p>
+            </div>
+            <div n="comment">
+              <p>τὸ τῆς περικεφαλαίας λαμπρὸν τὸ προμετωπίδιον⁑</p>
+            </div>
+          </div>
+
+           <div n="81v_7" type="scholion">
+            <div n="lemma">
+              <p><num value="7">ζ</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:6.10</p>
+            </div>
+            <div n="comment">
+              <p>τινὲς τῷ μετώπῳ δυϊκῶς καὶ ἀλλαχοῦ γάρ φησιν <cit><q>ἐμῆς κόρυθος λεύσουσι μέτωπα</q><ref>urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:16.70</ref></cit>⁑</p>
+            </div>
+          </div>
           </body>
           </text>
           </group>
