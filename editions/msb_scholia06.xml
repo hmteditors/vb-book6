@@ -82,7 +82,7 @@
             </div>
           </div>
 
-           <div n="81v_6" type="scholion">
+          <div n="81v_6" type="scholion">
             <div n="lemma">
               <p><num value="6">ς</num></p>
             </div>
@@ -94,7 +94,7 @@
             </div>
           </div>
 
-           <div n="81v_7" type="scholion">
+          <div n="81v_7" type="scholion">
             <div n="lemma">
               <p><num value="7">ζ</num></p>
             </div>
@@ -103,6 +103,54 @@
             </div>
             <div n="comment">
               <p>τινὲς τῷ μετώπῳ δυϊκῶς καὶ ἀλλαχοῦ γάρ φησιν <cit><q>ἐμῆς κόρυθος λεύσουσι μέτωπα</q><ref>urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:16.70</ref></cit>⁑</p>
+            </div>
+          </div>
+
+          <div n="81v_8" type="scholion">
+            <div n="lemma">
+              <p><num value="8">η</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:6.12</p>
+            </div>
+            <div n="comment">
+              <p>οἰκεῖον φιλοξένῳ τὸ ὄνομα: <persName n="urn:cite2:hmt:pers.v1:pers701">ἄξυλος</persName> γὰρ παρὰ τὸ ἄγειν, ὡς καὶ παρὰ τὸ καλεῖν <persName n="urn:cite2:hmt:pers.v1:pers702">καλήσιος</persName>: τινὲς δὲ τὸν ξύλα δαπανῶντα φασιν, <w>ἐπιτά<gap/>σει</w> τοῦ <rs type="waw">α</rs>⁑</p>
+            </div>
+          </div>
+
+          <div n="81v_9" type="scholion">
+            <div n="lemma">
+              <p><num value="9">θ</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:6.14</p>
+            </div>
+            <div n="comment">
+              <p>πλούσιος τῷ βίῳ: δηλονότι δι' ὅλης πλουτῶν τῆς ζωῆς⁑</p>
+            </div>
+          </div>
+
+          <div n="81v_10" type="scholion">
+            <div n="lemma">
+              <p><num value="10">ι</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:6.15</p>
+            </div>
+            <div n="comment">
+              <p>πάντας φησὶ τοὺς παρατυγχάνοντας: ἡ δὲ <rs type="waw">ἐπι</rs> ἀντὶ τῆς <rs type="waw">παρα</rs> ὡς τὸ ἐπὶ λιμένι οἰκῶν⁑</p>
+            </div>
+          </div>
+
+          <div n="81v_11" type="scholion">
+            <div n="lemma">
+              <p><num value="11">ια</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:6.16</p>
+            </div>
+            <div n="comment">
+              <p>δοκεῖ ἡ προσθήκη αὕτη τὸ κάλλιστόν τε καὶ βιωφελὲς ἐξευτελίζειν, ὡς οὐκ ὂν καλόν: καίτοι μᾶλλον ἐχρῆν καὶ βοηθόν τινα ἐκ θεῶν τούτω ἀναπλάσαι, ἵν' ἡμεῖς προτρεπώμεθα ἐπὶ τὸ φιλόξενον: ἢ οὖν ἁπλῶς ἀναπεφώνηται, ὡς τὸ <cit><q>οὐδὲ ἑκηβολίαι</q><ref>urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:5.54</ref></cit>: ἢ ἀποδοκιμάζει τὴν ἄκριτον φιλοξενίαν καὶ τὸ μὴ ἐπικρίνειν ποῖος τίς ἐστιν ᾧ μέλλει δεξιὰν συνάπτειν: ἐναρέτων γὰρ ἴδιον, οὐχὶ τὸ πάντας φιλεῖν, ἀλλὰ τινὰς: διὸ οὐδένα φίλον ἔσχεν: εἶτα καὶ ἐπιορκίᾳ μετὰ τῶν ἄλλων ὑπόκειται: τὰ δὲ καλὰ καθαρεύειν ἀπὸ τῶν ἐναντίων ὀφείλει⁑</p>
             </div>
           </div>
           </body>
